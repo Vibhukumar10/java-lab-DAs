@@ -1,5 +1,5 @@
 # Repository for Java Lab Assignments :smile:
-## Checklist:
+## Checklist✔️:
 - [x] Lab DA 1
 - [x] Lab DA 2
 - [x] Lab DA 3
