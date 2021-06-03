@@ -4,5 +4,5 @@
 - [x] Lab DA 2
 - [x] Lab DA 3
 - [x] LAB CAT
-- [ ] Lab DA 5
+- [x] Lab DA 5
 - [ ] LAB FAT
